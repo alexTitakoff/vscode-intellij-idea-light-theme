@@ -15,8 +15,8 @@
 
 Thanks  for the basic theme [https://github.com/karsany/vscode-ideal-theme](https://github.com/karsany/vscode-ideal-theme)
 
-Contact ьу for questions and additions :
-[!https://github.com/alexTitakoff/vscode-intellij-idea-light-theme](https://github.com/alexTitakoff/vscode-intellij-idea-light-theme)
+Contact me for questions and additions :
+[https://github.com/alexTitakoff/vscode-intellij-idea-light-theme](https://github.com/alexTitakoff/vscode-intellij-idea-light-theme)
 
 **Enjoy!**
 
