@@ -1,0 +1,23 @@
+{
+    "name": "intellij-idea-light-theme",
+    "displayName": "Intellij IDEA light theme",
+    "description": "Idea intellij light theme",
+    "version": "0.0.1",
+    "publisher": "AlexTi",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Idea intellij light theme",
+                "uiTheme": "vs",
+                "path": "./themes/Idea intellij light theme-color-theme.json"
+            }
+        ]
+    }
+}
+
