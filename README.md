@@ -1,7 +1,4 @@
 # Intellij IDEA light theme
-## This is the README for your extension "intellij-idea-light-theme"
-
-
 ### Preview
 
 ![**Preview1**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/Preview1.jpg)
@@ -22,3 +19,4 @@ Contact ьу for questions and additions :
 [!https://github.com/alexTitakoff/vscode-intellij-idea-light-theme](https://github.com/alexTitakoff/vscode-intellij-idea-light-theme)
 
 **Enjoy!**
+
