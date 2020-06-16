@@ -245,7 +245,7 @@
       "name": "HTML: Tag Names",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#1C4C8F",
+        "foreground": "#000088",
         "fontStyle": "bold",
       }
     },
@@ -483,7 +483,8 @@
         "meta.object-literal.key entity.name.function"
       ],
       "settings": {
-        "foreground": "#862F95"
+        "foreground": "#862F95",
+        "fontStyle": "bold"
       }
     },
     {
@@ -542,7 +543,7 @@
       "scope": "entity.name.function.js",
       "settings": {
         "foreground": "#862F95",
-        //"fontStyle": "bold"
+        "fontStyle": "bold"
       }
     },
     {
@@ -580,7 +581,7 @@
       "name": "keyword.operator.expression.delete.js",
       "scope": "keyword.operator.expression.delete.js",
       "settings": {
-        "foreground": "#0042B6",
+        "foreground": "#000088",
         "fontStyle": ""
       }
     },
@@ -588,7 +589,7 @@
       "name": "constant.language ",
       "scope": "constant.language ",
       "settings": {
-        "foreground": "#0042B6",
+        "foreground": "#000088",
         "fontStyle": ""
       }
     },
@@ -596,7 +597,7 @@
       "name": "storage.type.function.js",
       "scope": "storage.type.function.js",
       "settings": {
-        "foreground": "#0042B6",
+        "foreground": "#000088",
         "fontStyle": ""
       }
     },
@@ -604,7 +605,24 @@
       "name": "storage.type.js",
       "scope": "storage.type.js",
       "settings": {
-        "foreground": "#0042B6",
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "variable.language.this.js",
+      "scope": "variable.language.this.js",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    // Php
+    {
+      "name": "punctuation.section.embedded.begin.php",
+      "scope": "punctuation.section.embedded.begin.php",
+      "settings": {
+        "foreground": "#000088",
         "fontStyle": "bold"
       }
     },
