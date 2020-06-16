@@ -626,5 +626,45 @@
         "fontStyle": "bold"
       }
     },
+    {
+      "name": "variable.language.this.php",
+      "scope": "variable.language.this.php",
+      "settings": {
+        "foreground": "#7D7840",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "storage.type.function.php",
+      "scope": "storage.type.function.php",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "comment.block.documentation.phpdoc.php",
+      "scope": "comment.block.documentation.phpdoc.php",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#AAAAAA"
+      }
+    },
+    {
+      "name": "comment.block.documentation.phpdoc.php",
+      "scope": "comment.block.documentation.phpdoc.php support.class",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#AAAAAA"
+      }
+    },
+    {
+      "name": "keyword.other.phpdoc.php",
+      "scope": "keyword.other.phpdoc.php",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#AAAAAA"
+      }
+    },
   ]
 }
