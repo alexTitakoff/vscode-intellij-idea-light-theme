@@ -507,21 +507,21 @@
       "name": "variable.other.object.property.js",
       "scope": "variable.other.object.property.js",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
       "name": "variable.other.readwrite.js",
       "scope": "variable.other.readwrite.js",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
       "name": "variable.other.property.js",
       "scope": "variable.other.property.js",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -598,7 +598,7 @@
       "scope": "storage.type.function.js",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
