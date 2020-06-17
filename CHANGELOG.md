@@ -1,9 +1,18 @@
-# Change Log
+# Changelog
+## [0.5.3] - 2020-06-16
 
-All notable changes to the "intellij-idea-light-theme" extension will be documented in this file.
+### Added
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Edit php styles
+- Edit js styles
+- Bold font
+- Unify colors, dimmed colors
 
-## [Unreleased]
 
-- Initial release
+
+## [0.0.3] - 2020-06-09
+
+### Added
+- Edit js styles
+- Edit Html styles
+
