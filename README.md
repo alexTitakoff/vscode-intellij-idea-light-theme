@@ -5,13 +5,23 @@
 
 ![**Preview html css**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/preview_html_css.jpg)
 
+### Js / Php
+
+![**Preview html css**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/preview_js_php.jpg)
+
+### Vue /  React
+
+![**Preview html css**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/preview_vue_react.jpg)
 
 
-![**Preview2**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/Preview2.jpg)
 
 
 
-![**Preview3**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/Preview3.jpg)
+
+
+
+
+
 
 
 
