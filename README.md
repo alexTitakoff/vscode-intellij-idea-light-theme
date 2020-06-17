@@ -1,7 +1,9 @@
 # Intellij IDEA light theme
-### Preview
+### Preview 
 
-![**Preview1**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/Preview1.jpg)
+### Html / Css
+
+![**Preview html css**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/preview_html_css.jpg)
 
 
 
