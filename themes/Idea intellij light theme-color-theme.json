@@ -56,7 +56,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#448C27"
+        "foreground": "#095e09"
       }
     },
     {
@@ -175,7 +175,8 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#008800",
+        // "foreground": "#008800",
+        "foreground": "#095e09",
         "fontStyle": "bold"
       }
     },
@@ -314,7 +315,7 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#448C27"
+        "foreground": "#095e09"
       }
     },
     {
@@ -436,7 +437,7 @@
         "markup.italic"
       ],
       "settings": {
-        "foreground": "#448C27"
+        "foreground": "#095e09"
       }
     },
     {
@@ -566,7 +567,7 @@
       "name": "entity.name.function.js",
       "scope": "entity.name.function.js",
       "settings": {
-        "foreground": "#7D7840",
+        "foreground": "#696539",
       }
     },
     {
@@ -630,13 +631,29 @@
       "name": "variable.language.this.php",
       "scope": "variable.language.this.php",
       "settings": {
-        "foreground": "#7D7840",
+        "foreground": "#696539",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "variable.other.php",
+      "scope": "variable.other.php",
+      "settings": {
+        "foreground": "#696539",
         "fontStyle": "bold"
       }
     },
     {
       "name": "storage.type.function.php",
       "scope": "storage.type.function.php",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "storage.type.class.php",
+      "scope": "storage.type.class.php",
       "settings": {
         "foreground": "#000088",
         "fontStyle": "bold"
@@ -666,5 +683,6 @@
         "foreground": "#AAAAAA"
       }
     },
+
   ]
 }
