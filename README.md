@@ -7,11 +7,15 @@
 
 ### Js / Php
 
-![**Preview html css**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/preview_js_php.jpg)
+![**Preview js php**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/preview_js_php.jpg)
 
 ### Vue /  React
 
-![**Preview html css**](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/preview_vue_react.jpg)
+![Pre](https://raw.githubusercontent.com/alexTitakoff/vscode-intellij-idea-light-theme/master/preview_vue_react.jpg)
+
+
+
+
 
 
 
