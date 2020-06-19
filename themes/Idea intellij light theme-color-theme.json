@@ -572,6 +572,13 @@
       }
     },
     {
+      "name": "meta.object-literal.key.js",
+      "scope": "meta.object-literal.key.js",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "meta.object-literal.key.js entity.name.function.js",
       "scope": "meta.object-literal.key.js entity.name.function",
       "settings": {
