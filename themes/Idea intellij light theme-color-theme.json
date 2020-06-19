@@ -285,6 +285,8 @@
         "foreground": "#AB6526"
       }
     },
+
+    // CSS
     {
       "name": "CSS: Selectors",
       "scope": [
@@ -325,6 +327,15 @@
         "fontStyle": "bold"
       }
     },
+    {
+      "name": "keyword.other.unit.px.css",
+      "scope": "keyword.other.unit.px.css",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    // CSS end
+
     {
       "name": "Markup: Changed",
       "scope": "markup.changed",
@@ -508,21 +519,24 @@
       "name": "variable.other.object.property.js",
       "scope": "variable.other.object.property.js",
       "settings": {
-        "fontStyle": "bold"
+        // "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
       "name": "variable.other.readwrite.js",
       "scope": "variable.other.readwrite.js",
       "settings": {
-        "fontStyle": "bold"
+        // "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
       "name": "variable.other.property.js",
       "scope": "variable.other.property.js",
       "settings": {
-        "fontStyle": "bold"
+        // "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -539,14 +553,7 @@
         "fontStyle": ""
       }
     },
-    {
-      "name": "entity.name.function.js",
-      "scope": "entity.name.function.js",
-      "settings": {
-        "foreground": "#862F95",
-        "fontStyle": "bold"
-      }
-    },
+    
     {
       "name": "entity.name.function.js",
       "scope": [
@@ -560,14 +567,16 @@
       ],
       "settings": {
         "foreground": "#862F95",
-        //"fontStyle": "bold"
+        // "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
-      "name": "entity.name.function.js",
-      "scope": "entity.name.function.js",
+      "name": "meta.object-literal.key.js entity.name.function.js",
+      "scope": "meta.object-literal.key.js entity.name.function",
       "settings": {
         "foreground": "#696539",
+        "fontStyle": ""
       }
     },
     {
