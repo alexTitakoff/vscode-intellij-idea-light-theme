@@ -614,6 +614,14 @@
         "fontStyle": ""
       }
     },
+
+    {
+      "name": "entity.name.function.js",
+      "scope": "entity.name.function.js",
+      "settings": {
+        "foreground": "#696539",
+      }
+    },
     {
       "name": "storage.type.function.js",
       "scope": "storage.type.function.js",
@@ -638,6 +646,25 @@
         "fontStyle": "bold"
       }
     },
+
+    // For React 
+    {
+      "name": "support.class.component.js",
+      "scope": "support.class.component.js",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "storage.type.class.js",
+      "scope": "storage.type.class.js",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+
     // Php
     {
       "name": "punctuation.section.embedded.begin.php",
