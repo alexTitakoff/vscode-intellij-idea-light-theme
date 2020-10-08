@@ -2,9 +2,10 @@
     "name": "intellij-idea-light-theme",
     "displayName": "Intellij IDEA light theme",
     "description": "Idea intellij light theme",
-    "version": "0.5.5",
+    "version": "0.5.6",
     "publisher": "AlexTi",
     "repository": "https://github.com/alexTitakoff/vscode-intellij-idea-light-theme",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.77.0"
     },
