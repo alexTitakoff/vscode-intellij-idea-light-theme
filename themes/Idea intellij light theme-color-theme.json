@@ -665,6 +665,129 @@
       }
     },
 
+    // JSX
+    {
+      "name": "variable.other.readwrite.alias.js.jsx",
+      "scope": "variable.other.readwrite.alias.js.jsx",
+      "settings": {
+        "foreground": "#000000",
+        "fontStyle": ""
+      }
+    },
+    // TS
+    {
+      "name": "variable.other.readwrite.alias.ts",
+      "scope": "variable.other.readwrite.alias.ts",
+      "settings": {
+        "foreground": "#000000",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "entity.name.function.ts",
+      "scope": "entity.name.function.ts",
+      "settings": {
+        "foreground": "#696539",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "variable.language.this.ts",
+      "scope": "variable.language.this.ts",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "meta.object-literal.key.ts",
+      "scope": "meta.object-literal.key.ts",
+      "settings": {
+        "foreground": "#4d154d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "variable.object.property.ts",
+      "scope": "variable.object.property.ts",
+      "settings": {
+        "foreground": "#4d154d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "variable.parameter.ts",
+      "scope": "variable.parameter.ts",
+      "settings": {
+        "foreground": "#4d154d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "variable.other.object.property.ts",
+      "scope": "variable.other.object.property.ts",
+      "settings": {
+        "foreground": "#4d154d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "variable.other.property.ts",
+      "scope": "variable.other.property.ts",
+      "settings": {
+        "foreground": "#4d154d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "variable.other.object.ts",
+      "scope": "variable.other.object.ts",
+      "settings": {
+        "foreground": "#4d154d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "variable.other.readwrite.ts",
+      "scope": "variable.other.readwrite.ts",
+      "settings": {
+        "foreground": "#4d154d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "storage.type.function.ts",
+      "scope": "storage.type.function.ts",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "storage.type.class.ts",
+      "scope": "storage.type.class.ts",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "storage.type.ts",
+      "scope": "storage.type.ts",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "string.quoted.single.ts",
+      "scope": "string.quoted.single.ts",
+      "settings": {
+        "foreground": "#095e09",
+        "fontStyle": ""
+      }
+    },
+
     // Php
     {
       "name": "punctuation.section.embedded.begin.php",
@@ -730,5 +853,75 @@
         "foreground": "#AAAAAA"
       }
     },
+
+    // Python 
+    {
+      "name": "storage.type.function.python",
+      "scope": "storage.type.function.python",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "entity.name.function.python",
+      "scope": "entity.name.function.python",
+      "settings": {
+        "foreground": "#696539",
+        // "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "source.python",
+      "scope": "source.python",
+      "settings": {
+        "foreground": "#4d154d",
+        // "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "keyword.operator.logical.python",
+      "scope": "keyword.operator.logical.python",
+      "settings": {
+        "foreground": "#4d154d",
+        // "fontStyle": "bold"
+      }
+    },
+    // Ruby
+    {
+      "name": "entity.name.function.ruby",
+      "scope": "entity.name.function.ruby",
+      "settings": {
+        "foreground": "#696539",
+        // "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "source.ruby",
+      "scope": "source.ruby",
+      "settings": {
+        "foreground": "#4d154d",
+        // "fontStyle": "bold"
+      }
+
+    },
+    {
+      "name": "support.function.kernel.ruby",
+      "scope": "support.function.kernel.ruby",
+      "settings": {
+        "foreground": "#326d6e",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "entity.name.type.class.ruby",
+      "scope": "entity.name.type.class.ruby",
+      "settings": {
+        "foreground": "#4d154d",
+        "fontStyle": "bold"
+      }
+
+    },
+  
   ]
 }

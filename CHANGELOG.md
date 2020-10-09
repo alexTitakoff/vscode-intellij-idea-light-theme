@@ -1,5 +1,14 @@
 # Changelog
 
+
+## [0.6.0] - 2020-06-16
+
+### Added
+
+- Add Python Ruby styles
+- Add TS JSX styles
+
+
 ## [0.5.6] - 2020-06-16
 
 ### Added
