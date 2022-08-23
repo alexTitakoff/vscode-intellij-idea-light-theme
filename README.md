@@ -1,4 +1,5 @@
 # Intellij IDEA light theme
+If you have a desire to finalize the theme, write to me alex.titakoff@yandex.ru . You can safely fork my theme and if it is better than mine, I will redirect to yours. Or if you want, I can give you the rights to a contributor.
 ### Preview 
 
 ### Html / Css
