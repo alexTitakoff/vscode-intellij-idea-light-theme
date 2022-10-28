@@ -1,3 +1,5 @@
+Greetings to all. I see some response. I admit I haven't used a light theme for a long time. I will try to update soon. (date of the message 28.10.2022). All your suggestions please email alex.titakoff@yandex.ru
+
 # Intellij IDEA light theme
 If you have a desire to finalize the theme, write to me alex.titakoff@yandex.ru . You can safely fork my theme and if it is better than mine, I will redirect to yours. Or if you want, I can give you the rights to a contributor.
 ### Preview 
