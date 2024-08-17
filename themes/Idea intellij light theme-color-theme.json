@@ -864,6 +864,22 @@
       }
     },
     {
+      "name": "storage.type.function.async.python",
+      "scope": "storage.type.function.async.python",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "storage.type.class.python",
+      "scope": "storage.type.class.python",
+      "settings": {
+        "foreground": "#000088",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "entity.name.function.python",
       "scope": "entity.name.function.python",
       "settings": {
